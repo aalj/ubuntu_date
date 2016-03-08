@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+/home/stone/workspace/.metadata/.plugins/org.eclipse.jdt.core
+2383773622.index
+2307022683.index
+4149992810.index
+1281968668.index

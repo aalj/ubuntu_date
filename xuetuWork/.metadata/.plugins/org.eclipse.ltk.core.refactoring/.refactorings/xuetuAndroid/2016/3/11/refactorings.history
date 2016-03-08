@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 6 elements from project &apos;xuetu&apos;&#x0A;- Original project: &apos;xuetu&apos;&#x0A;- Original elements:&#x0A;     dexedLibs&#x0A;     res&#x0A;     AndroidManifest.xml&#x0A;     classes.dex&#x0A;     resources.ap_&#x0A;     xuetu.apk" description="Delete elements" element1="bin/AndroidManifest.xml" element2="bin/resources.ap_" element3="bin/res" element4="bin/xuetu.apk" element5="bin/dexedLibs" element6="bin/classes.dex" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="6" stamp="1457276852179" subPackages="false" version="1.0"/>
+</session>

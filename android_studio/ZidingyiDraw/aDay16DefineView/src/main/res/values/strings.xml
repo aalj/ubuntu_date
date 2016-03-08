@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ADay16-DefineView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_circle_view">CircleViewActivity</string>
+    <string name="title_activity_image_view_matrix">ImageViewMatrixActivity</string>
+    <string name="title_activity_my_text_view">MyTextViewActivity</string>
+
+</resources>

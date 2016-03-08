@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--属性名称 和 属性的类型-->
+    <!--reference  表示引用其他资源-->
+    <declare-styleable name="TitleBar">
+        <attr name="TitleBar_Title" format="string"/>
+        <attr name="Title_Left_Image" format="reference"/>
+        <attr name="Title_Reght_Image" format="reference"/>
+        <attr name="Tilte_Color" format="reference|color"/>
+
+
+    </declare-styleable>
+
+</resources>

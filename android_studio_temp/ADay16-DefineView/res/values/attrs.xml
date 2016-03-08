@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 标题 -->
+    <declare-styleable name="TitleBar">
+        <attr name="titleBarTitle" format="string"/>
+        <attr name="titleBarLeftImage" format="reference"/>
+        <attr name="titleBarRightImage" format="reference"/>
+        <attr name="titleBarBackground" format="reference|color"/>
+        <!-- 字体的颜色 -->
+        <attr name="titleBarColor" format="color"/>
+    </declare-styleable>
+    
+    <!-- MyTextView: 属性名-属性取值类型-->
+    <declare-styleable name="mytextview">
+        <attr name="mytextsize" format="dimension|reference"></attr>
+        <attr name="mytextcolor" format="color|reference"></attr>
+    </declare-styleable>
+    
+    
+    
+</resources>

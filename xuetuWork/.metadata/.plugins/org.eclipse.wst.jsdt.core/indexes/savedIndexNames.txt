@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+/home/stone/workspace/xuetuWork/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3625506491.index
+2519695761.index
+1931814674.index
+2637808261.index
+3232674854.index
+2699756446.index

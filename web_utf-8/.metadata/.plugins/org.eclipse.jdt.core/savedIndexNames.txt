@@ -1,0 +1,18 @@
+INDEX VERSION 1.127+/home/stone/workspace/web_utf-8/.metadata/.plugins/org.eclipse.jdt.core
+1622095536.index
+3234715278.index
+3493214092.index
+374877473.index
+2713835508.index
+3948047292.index
+4239521198.index
+851868998.index
+2268785051.index
+600575445.index
+877060497.index
+2124895140.index
+2209332224.index
+3508042011.index
+2692210524.index
+3197268939.index
+1169334649.index
